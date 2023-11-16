@@ -34,5 +34,6 @@ body{
 @media only screen and (min-width: 376px){
     .card{
         width: 30%;
+        padding: 2%;
     }
 }
