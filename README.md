@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![(https://github.com/Abhattgithub/qr-code-component-main/blob/main/screenshot.jpg)]
+![](https://github.com/Abhattgithub/qr-code-component-main/blob/main/screenshot.jpg?raw="true")
 
 ### Links
 
