@@ -13,7 +13,7 @@
 
 ### Links
 
-- Solution URL: https://github.com/Abhattgithub/qr-code-component-main/tree/main
+- Solution URL: [https://github.com/Abhattgithub/qr-code-component-main/tree/main](https://github.com/Abhattgithub/qr-code-component-main)
 - Live Site URL: https://abhattgithub.github.io/qr-code-component-main/
 
 ### Built with
