@@ -9,12 +9,12 @@
 
 ### Screenshot
 
-![](https://github.com/Abhattgithub/qr-code-component-main/blob/main/screenshot.jpg)
+![Display](https://github.com/Abhattgithub/qr-code-component-main/blob/main/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/Abhattgithub/qr-code-component-main/tree/main]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [](https://github.com/Abhattgithub/qr-code-component-main/tree/main)
+- Live Site URL: [](https://abhattgithub.github.io/qr-code-component-main/)
 
 ### Built with
 
